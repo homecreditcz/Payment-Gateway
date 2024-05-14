@@ -12,7 +12,7 @@ Cookbook for Payment Gateway
 
 ## Rozcestník
 
-[Procesní flow](https://github.com/homecreditcz/oneclick-api/wiki/Procesn%C3%AD-flow-n%C3%A1kupu)
+[Procesní flow]https://github.com/homecreditcz/Payment-Gateway/wiki/Procesn%C3%AD-flow-n%C3%A1kupu
 
 [Minimální implementace](https://github.com/homecreditcz/Payment-Gateway/wiki/Minim%C3%A1ln%C3%AD-implementace)
 
