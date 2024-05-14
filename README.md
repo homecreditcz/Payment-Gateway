@@ -36,4 +36,4 @@ Cookbook for Payment Gateway
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-[FAQ](https://github.com/homecreditcz/oneclick-api/wiki/FAQ)
+[FAQ](https://github.com/homecreditcz/Payment-Gateway/wiki/FAQ)
