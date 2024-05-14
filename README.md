@@ -26,7 +26,7 @@ Cookbook for Payment Gateway
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-[Produkční prostředí](https://github.com/homecreditcz/oneclick-api/wiki/Produk%C4%8Dn%C3%AD-prost%C5%99ed%C3%AD)
+[Produkční prostředí](https://github.com/homecreditcz/Payment-Gateway/wiki/Produk%C4%8Dn%C3%AD-prost%C5%99ed%C3%AD)
 
 [Zabezpečení zpětné komunikace](https://github.com/homecreditcz/Payment-Gateway/wiki/Zabezpe%C4%8Den%C3%AD-zp%C4%9Btn%C3%A9-komunikace)
 
