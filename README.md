@@ -1,2 +1,2 @@
 # Payment-Gateway
-Cookboook for PAyment Gateway
+Cookbook for Payment Gateway
