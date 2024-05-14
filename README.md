@@ -22,7 +22,7 @@ Cookbook for Payment Gateway
 
 [Testovací scénáře](https://github.com/homecreditcz/Payment-Gateway/wiki/Testovac%C3%AD-sc%C3%A9n%C3%A1%C5%99e)
 
-[Vzorové dotazy (requesty)](https://github.com/homecreditcz/oneclick-api/wiki/Vzorov%C3%A9-dotazy-(requesty))
+[Vzorové dotazy (requesty)](https://github.com/homecreditcz/Payment-Gateway/wiki/Vzorov%C3%A9-dotazy-(requesty))
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
