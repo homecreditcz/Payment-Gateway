@@ -2,7 +2,7 @@
 Cookbook for Payment Gateway
 
 - Rozhraní je **REST API**, kde se pro veškerou komunikaci (dotazy - requesty a odpovědi - response) a popis dat využívá notace JSON.
-- **Technická dokumentace** k API (dále TD) a základní popis fungování platební metody je k nalezení na [https://csfinancingv2.docs.apiary.io/#](https://csfinancingv2.docs.apiary.io/#)
+- **Technická dokumentace** k API (dále TD) a základní popis fungování platební metody je k nalezení na [https://csfinancingv3.docs.apiary.io/#](https://csfinancingv3.docs.apiary.io/#)
 - Veřejně přístupná **repository s podkladovými daty** je k dispozici na https://github.com/homecreditcz, najdete zde:
   - **Tuto příručku k veřejnému API** včetně návodů a vzorových dat
   - **Kalkulačku splátek** ve formě javascriptového widgetu ([*widget-calculator*](https://github.com/homecreditcz/widget-calculator))
